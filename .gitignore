@@ -1,0 +1,6 @@
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Copia original de la música (se usa music/fondo.mp3)
+music/novulent*.mp3
